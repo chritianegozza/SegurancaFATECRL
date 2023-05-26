@@ -78,3 +78,12 @@ input {
 	box-shadow: 5px 5px 5px #eee;
 	text-shadow: none;
 }
+
+footer{
+    background: #092756;
+    color: #fff;
+    text-align: center;
+    padding: 15px;
+
+    
+}

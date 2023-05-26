@@ -4,6 +4,8 @@
 
 ![image](https://github.com/chritianegozza/SegurancaFATECRL/assets/72118415/e31bd3c3-c5b5-4f13-a764-701ab3b0bc95)
 
+![image](https://github.com/chritianegozza/SegurancaFATECRL/assets/72118415/d9580805-98b4-47ac-beb3-0ecf522d354b)
+
 *******************************************************************************************************
 Projeto de Segurança reCAPTCHA
 
